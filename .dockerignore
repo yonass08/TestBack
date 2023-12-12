@@ -1,0 +1,4 @@
+# Exclude build output directories
+**/bin/
+**/obj/
+
